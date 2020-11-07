@@ -1,0 +1,37 @@
+{
+  "id": "2187516",
+  "name": "wphtubiao",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "7844254",
+      "name": "姓名 用户名 昵称",
+      "font_class": "xingmingyonghumingnicheng",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "8770685",
+      "name": "用户名-密码",
+      "font_class": "yonghuming-mima",
+      "unicode": "e644",
+      "unicode_decimal": 58948
+    },
+    {
+      "icon_id": "5481147",
+      "name": "更多",
+      "font_class": "gengduo",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "14625589",
+      "name": "扫一扫",
+      "font_class": "saoyisao",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    }
+  ]
+}
