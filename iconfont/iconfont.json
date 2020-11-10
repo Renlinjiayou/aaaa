@@ -6,6 +6,34 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "1804016",
+      "name": "心",
+      "font_class": "xin",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "15724696",
+      "name": "五角星 星型 ",
+      "font_class": "changyongtubiao-xianxingdaochu-zhuanqu-",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "2353015",
+      "name": "优惠卷",
+      "font_class": "youhuijuan",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "2753967",
+      "name": "足迹",
+      "font_class": "zuji",
+      "unicode": "e62c",
+      "unicode_decimal": 58924
+    },
+    {
       "icon_id": "4095557",
       "name": "购物袋",
       "font_class": "gouwudai",
